@@ -1,0 +1,39 @@
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: orange;
+}
+
+.flex {
+  display: flex;
+}
+.header {
+  text-align: center;
+  padding-top: 200px;
+}
+.name {
+  margin: 30px;
+}
+.flex1 {
+  flex: 1;
+}
+.choose {
+  margin: 10px;
+  text-align: center;
+  text-decoration-line: none;
+  padding: 10px 30px;
+  font-size: 30px;
+  color: orange;
+  background-color: white;
+  border-radius: 8px;
+  transition: 0.2 linear;
+  font-family: Microsoft YaHei;
+}
+a:hover {
+  color: black;
+  background-color: orange;
+}
+.shengming {
+  text-align: center;
+  padding: 200px;
+}
